@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "thegood_thebad_thecoding"
-date:       2019-10-10 13:26:34 +0000
+date:       2019-10-10 09:26:34 -0400
 permalink:  thegood_thebad_thecoding
 ---
 
